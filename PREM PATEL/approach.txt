@@ -1,0 +1,10 @@
+Step 1 : We will make a empty list
+
+Step 2 : Then we will generat all the combination of the given number and append each into that empty list
+
+Step 3 : After that we will try to find the prime numbers from the list of the combination
+
+Step 4 : After that we will try to remove the element which is greater than a configurable threshold and not exceed a configurable limit
+
+Step 5 :After thet try to see if there is any number which have more the k even numbers and if then remove that and also remove number which have consecutive repeating digits and palindromic substrings of length ≥ 3
+
